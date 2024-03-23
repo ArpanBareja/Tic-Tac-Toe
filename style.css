@@ -34,8 +34,12 @@ h1 {
     height: 10vh ;
     width: 10vh ;
     border-radius: 0.8rem;
-    border:none ;
+    border:3px solid rgb(255, 213, 0) ;
     font-size: 5vh ;
+    display: flex ;
+    justify-content: center ;
+    align-items: center ;
+    
 }
 
 .reset {
